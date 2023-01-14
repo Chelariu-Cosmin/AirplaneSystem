@@ -1,0 +1,25 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/entity/Sosiri.java,8\3\83e8ca37298bf67b05904740992e5ebdd2d5ac42
+Q
+!src/main/java/entity/Plecari.java,7\6\76062c6dfceaac715ec998411e80f543db53f232
+R
+"src/main/java/entity/Persoana.java,5\c\5c9e454f2c39781a8dbb5a7b20f8d1c582349b0f
+P
+ src/main/java/entity/Client.java,7\7\77e5c0344c49dac7054e6460276858e3641861e4
+S
+#src/main/java/entity/Calatorii.java,9\3\937af71e6858ffe9d8a188b6f2eba93d2988ea1d
+P
+ src/main/java/entity/Bagaje.java,5\8\5890bbb61fea9a1284edf9802f48aa21da9f931b
+P
+ src/main/java/entity/Bilete.java,0\2\0287b00c0dc349001024a8d165cbfa2e5ad6b8f4
+T
+$src/test/java/tests/TestClienti.java,6\4\647af24906787b6e8f6c58a25e8212929a55fd58
+U
+%src/test/java/tests/TestCompanie.java,b\4\b45b5a0c011ebae9ce90cada65ca3b92fa8221a9
+Q
+!src/main/java/entity/Program.java,7\a\7a898b25dd83635ce0b71d7a88a45dd473361d88
+R
+"src/main/java/entity/Companie.java,a\c\ac3b4c3825b8be2a509b9051da1369d4bd6d3c60

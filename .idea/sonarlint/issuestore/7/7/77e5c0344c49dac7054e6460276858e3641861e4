@@ -1,0 +1,7 @@
+
+
+java:S4165="fRemove this useless assignment; "idClient" already holds the assigned value along all execution paths.(η±”€ώÿÿÿÿ
+V	java:S107,"AConstructor has 9 parameters, which is greater than 7 authorized.(έ©†Λ
+\	java:S1073"BConstructor has 10 parameters, which is greater than 7 authorized.(αΖνωÿÿÿÿ
+J
+java:S1656="/Remove or correct this useless self-assignment.(η±”€ώÿÿÿÿ
